@@ -36,3 +36,4 @@ dependencies:
     - tqdm          # Nice progressbar for longer computations
     - xarray        # N-d labeled array library
     - xesmf
+    
